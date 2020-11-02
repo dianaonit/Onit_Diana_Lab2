@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using System.Windows.Input;
 
-namespace Onit_Diana_Lab2
+namespace Onit_Diana_Lab2.CustomCommands
 {
     class StopCommand
     {
