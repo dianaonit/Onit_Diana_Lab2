@@ -6,7 +6,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace Onit_Diana_Lab2
+namespace Onit_Diana_Lab5
 {
     /// <summary>
     /// Interaction logic for App.xaml
